@@ -12,7 +12,7 @@ public class PlMz(start,goal,maze,PL){
         case W:
             PL[1] = PL[1] - 1;
             break;
-
+ 
         case S:
             PL[1] = PL[1] + 1;
             break;
