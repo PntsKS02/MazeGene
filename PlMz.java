@@ -27,7 +27,7 @@ public class PlMz(start,goal,maze,PL){
     
         default:
             break;
-    }
+    } 
     }
 
 }
